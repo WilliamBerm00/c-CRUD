@@ -1,0 +1,11 @@
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\bin\Debug\CRUD_P.exe.config
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\bin\Debug\CRUD_P.exe
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\bin\Debug\CRUD_P.pdb
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.csproj.AssemblyReference.cache
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.Form1.resources
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.Properties.Resources.resources
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.csproj.GenerateResource.cache
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.csproj.CoreCompileInputs.cache
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.exe
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.pdb
+C:\Users\willu\OneDrive\Documentos\ADSI\ADSI\ADSI SQL Server\CRUD\PROYECT\CRUD_P\CRUD_P\obj\Debug\CRUD_P.Form2.resources
